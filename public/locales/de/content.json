@@ -1,0 +1,14 @@
+{
+    "title": "Offene Brief Vorlage",
+    "introductionMD": "Markdown Inhalt für das Offene Brief",
+    "block1IntroMD": "",
+    "block1ContentMD": "",
+    "block2IntroMD": "",
+    "block2ContentMD": "",
+    "block3IntroMD": "",
+    "block3ContentMD": "",
+    "block4IntroMD": "",
+    "block4ContentMD": "",
+    "readMoreLinkText": "Mehr lesen",
+    "readLessLinkText": "Einkalppen"
+}

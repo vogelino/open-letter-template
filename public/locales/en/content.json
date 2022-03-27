@@ -1,0 +1,14 @@
+{
+    "title": "Title of your open letter",
+    "introductionMD": "Text content of your open letter",
+    "block1IntroMD": "",
+    "block1ContentMD": "",
+    "block2IntroMD": "",
+    "block2ContentMD": "",
+    "block3IntroMD": "",
+    "block3ContentMD": "",
+    "block4IntroMD": "",
+    "block4ContentMD": "",
+    "readMoreLinkText": "Read more",
+    "readLessLinkText": "Collapse"
+}
